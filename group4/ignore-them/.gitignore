@@ -1,0 +1,4 @@
+libraries/
+*.jar
+*.exe
+*.js
